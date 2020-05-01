@@ -1,4 +1,4 @@
-# nlp
+# nlp-algos
 NLP algos for Splunk DeepLearningTook Kit NLP
 
 https://splunkbase.splunk.com/app/4978　を利用される場合、Docker コンテナの/srv/notebook に日本語対応版アルゴリズムを配置してください。
