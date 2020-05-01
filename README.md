@@ -7,3 +7,6 @@ https://splunkbase.splunk.com/app/4978　を利用される場合、Docker コ�
 2. DeepLearning Took Kitの「Containers」からContainer Image 「NLP」を選択して　コンテナをSTARTします。
 3. NLPコンテナが起動したら「JUPYTER LAB」ボタンを押してJupyter Notebookをブラウザで開きます。パスワードは「Splunk4DeepLearning」
 4. Jupyter Notebookのnotebookディレクトリにspacy_ner_ja.ipynb ファイルを配置してください。
+
+オリジナルの固有表現抽出アルゴリズム　spacy_nerの代わりに　spacy_ner_ja を指定することで日本語モデルをロードし、SpaCyのTolenizerがGinzaに切り替えて日本語処理を可能にします。
+
