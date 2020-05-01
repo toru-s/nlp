@@ -1,7 +1,7 @@
 # nlp-algos
 NLP algos for Splunk DeepLearningTook Kit NLP
 
-https://splunkbase.splunk.com/app/4978　を利用される場合、Docker コンテナの/srv/notebook に日本語対応版アルゴリズムを配置してください。
+https://splunkbase.splunk.com/app/4978　を利用される場合、Docker コンテナのnotebookディレクトリに日本語対応版アルゴリズムを配置してください。
 
 1. Docker Host上で　docker pull storu/mltk-container-nlp:latest を実行します。
 2. DeepLearning Took Kitの「Containers」からContainer Image 「NLP」を選択して　コンテナをSTARTします。
