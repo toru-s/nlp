@@ -1,7 +1,7 @@
 # nlp-algos
 NLP algos for Splunk DeepLearningTook Kit NLP
 
-Splunk DLTK3.0 拡張版Apps https://splunkbase.splunk.com/app/4978　として公開した、NLP 固有表現抽出アルゴリズムの日本語版です。
+Splunk DLTK3.0 拡張版Apps https://splunkbase.splunk.com/app/4978　 として公開したNLP 固有表現抽出アルゴリズムの日本語版です。
 
 NLPで使用しているSpaCyライブラリを使って実装されている固有表現抽出アルゴリズム、spacy_nerの代わりに　spacy_ner_ja を指定することでTokenizerをGinzaライブラリに切り替え日本語モデルをロードすることにより、日本語対応にしています。
 
