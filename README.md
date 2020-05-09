@@ -14,4 +14,4 @@ https://splunkbase.splunk.com/app/4978　を利用される場合、Docker コ�
 
 Ginzaに関する詳細は　https://megagonlabs.github.io/ginza/　を参照してください。
 
-現状はGinzaの標準実装のままでは固有表現抽出ラベルの精度があまりよろしくないため、将来的に拡張をしたいと思っています。
+現状、Ginzaの標準実装のままでは固有表現抽出ラベルの精度があまりよろしくないため、将来的に拡張をしたいと思っています。
