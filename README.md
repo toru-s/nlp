@@ -7,7 +7,7 @@ NLPで使用しているSpaCyライブラリを使って実装されている固
 
 Ginzaに関する詳細は　https://megagonlabs.github.io/ginza/　を参照してください。
 
-2020/05/07 Splunk DLTK3.1 にNLP Ginzaとしてマージされました。
+2020/05/07 Splunk DLTK3.1 にNLP Ginzaとしてマージされました。https://www.splunk.com/en_us/blog/machine-learning/deep-learning-toolkit-3-1-examples-for-prophet-graphs-gpus-and-dask.html
 
 DLTK3.1 で利用する場合は、以下の手順を踏んでください。
 
